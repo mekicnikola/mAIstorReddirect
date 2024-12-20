@@ -1,1 +1,1 @@
-# mAIstorReddirect
+Reddirect to mAIsterWebsite
