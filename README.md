@@ -1,1 +1,1 @@
-Reddirect to mAIsterWebsite
+Redirect to mAIsterWebsite
